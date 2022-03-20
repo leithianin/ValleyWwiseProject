@@ -2,13 +2,13 @@
 <ValidationCache Version="1" SchemaVersion="103">
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1646403723" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\ValleyProduction_WwiseProject.wproj" DateLow="1647541620" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\ValleyProduction_WwiseProject.c.pavie.wsettings" DateLow="1647541627" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\ValleyProduction_WwiseProject.wproj" DateLow="1647770011" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\ValleyProduction_WwiseProject.c.pavie.wsettings" DateLow="1647780584" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\States\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1647780497" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Queries\Factory Queries.wwu" DateLow="1646403723" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1646403723" DateHigh="0"/>
@@ -22,7 +22,7 @@
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1646403826" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Game Parameters\Factory Motion.wwu" DateLow="1646403830" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Events\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Events\Default Work Unit.wwu" DateLow="1647780497" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Effects\Factory Reflect.wwu" DateLow="1646403824" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Effects\Factory McDSP Effects.wwu" DateLow="1646403821" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Effects\Factory Mastering Suite.wwu" DateLow="1646403834" DateHigh="0"/>
@@ -45,5 +45,5 @@
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1646403723" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1646403826" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1647541183" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1647541168" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1647773946" DateHigh="0"/>
 </ValidationCache>

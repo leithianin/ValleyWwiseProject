@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	393723178	Wind_Event			\Default Work Unit\Wind_Event	
+	2243720286	Ambiant_Event			\Default Work Unit\Ambiant_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	781080560	Wind_01	C:\Users\c.pavie\Documents\Projects\ValleyWwiseProject\ValleyProduction_WwiseProject\.cache\Windows\SFX\244942__spoonbender__wind-through-trees-3b_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wind_01		11165760
+

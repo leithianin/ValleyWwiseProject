@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0D2425FA-BEFD-4234-916D-E300E15FE402}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{0D2425FA-BEFD-4234-916D-E300E15FE402}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{0D2425FA-BEFD-4234-916D-E300E15FE402}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Wind_01" ID="{A04E0E80-689A-4B89-A8EF-EBA23F2B10E2}" ShortID="189285793">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{746431F6-F862-4F7F-85D7-12868312B723}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0342DAFD-7F8D-481C-8F54-8091A4C06744}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="244942__spoonbender__wind-through-trees-3b" ID="{0A809CB4-01F0-4974-9DF4-2E1FBD011997}">
+							<Language>SFX</Language>
+							<AudioFile>244942__spoonbender__wind-through-trees-3b.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="781080560"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="244942__spoonbender__wind-through-trees-3b" ID="{0A809CB4-01F0-4974-9DF4-2E1FBD011997}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
