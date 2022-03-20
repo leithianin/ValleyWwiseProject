@@ -41,61 +41,6 @@
 									<ObjectRef Name="Music" ID="{5DF7918E-DA82-432B-90F4-8EB0A2825678}" WorkUnitID="{0342DAFD-7F8D-481C-8F54-8091A4C06744}"/>
 								</Reference>
 							</ReferenceList>
-							<ChildrenList>
-								<MusicTrack Name="Home_Theme" ID="{2D2C069D-96D2-4B5D-8A01-D40554F52806}" ShortID="188264402">
-									<ReferenceList>
-										<Reference Name="OutputBus">
-											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0342DAFD-7F8D-481C-8F54-8091A4C06744}"/>
-										</Reference>
-									</ReferenceList>
-									<ChildrenList>
-										<AudioFileSource Name="Home_Theme" ID="{45A0BC48-986E-4B6E-B16C-E2645E83FBE1}">
-											<PropertyList>
-												<Property Name="MarkerInputMode" Type="int16" Value="1"/>
-											</PropertyList>
-											<Language>SFX</Language>
-											<AudioFile>Home_Theme.wav</AudioFile>
-											<MediaIDList>
-												<MediaID ID="918042511"/>
-											</MediaIDList>
-										</AudioFileSource>
-									</ChildrenList>
-									<TransitionList>
-										<MusicTransition Name="Root" ID="{3CEEB2F8-80CF-4235-B12E-577B97CCD737}">
-											<PropertyList>
-												<Property Name="IsFolder" Type="bool" Value="True"/>
-											</PropertyList>
-											<TransitionInfo/>
-										</MusicTransition>
-									</TransitionList>
-									<ObjectLists>
-										<ObjectList Name="Sequences">
-											<Reference>
-												<Local>
-													<MusicTrackSequence Name="" ID="{FE9E64B7-D6C6-4EEB-8B85-92916FFB9BB4}">
-														<ObjectLists>
-															<ObjectList Name="Clips">
-																<Reference>
-																	<Local>
-																		<MusicClip Name="Home_Theme" ID="{FD8F369D-B6F4-49A8-8ED4-530D998150E0}">
-																			<PropertyList>
-																				<Property Name="EndTrimOffset" Type="Real64" Value="59442.7437641723"/>
-																				<Property Name="FadeInMode" Type="int16" Value="0"/>
-																				<Property Name="FadeOutMode" Type="int16" Value="0"/>
-																			</PropertyList>
-																			<AudioSourceRef Name="Home_Theme" ID="{45A0BC48-986E-4B6E-B16C-E2645E83FBE1}"/>
-																		</MusicClip>
-																	</Local>
-																</Reference>
-															</ObjectList>
-														</ObjectLists>
-													</MusicTrackSequence>
-												</Local>
-											</Reference>
-										</ObjectList>
-									</ObjectLists>
-								</MusicTrack>
-							</ChildrenList>
 							<ObjectLists>
 								<ObjectList Name="Cues">
 									<Reference>

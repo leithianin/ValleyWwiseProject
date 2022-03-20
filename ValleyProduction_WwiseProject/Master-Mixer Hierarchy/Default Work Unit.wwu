@@ -16,6 +16,9 @@
 						<Bus Name="Music" ID="{5DF7918E-DA82-432B-90F4-8EB0A2825678}">
 							<ObjectLists/>
 						</Bus>
+						<Bus Name="SoundEffect" ID="{81EB20DC-80FA-4662-AE38-F787DD413BBC}">
+							<ObjectLists/>
+						</Bus>
 					</ChildrenList>
 					<ObjectLists/>
 				</Bus>

@@ -3,17 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Wind_Event" ID="{8EF4E12C-5A4B-4F37-91EF-CCC4A65FE526}">
-					<ChildrenList>
-						<Action Name="" ID="{C8DA219F-2E0B-42DE-AEC4-AFBE9149A6C0}" ShortID="108417345">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Wind_01" ID="{A04E0E80-689A-4B89-A8EF-EBA23F2B10E2}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Ambiant_Event" ID="{F70D274E-2D94-4B77-AA54-5EE8C119C819}">
 					<ChildrenList>
 						<Action Name="" ID="{35289657-6C73-42B5-BE62-3BBAF7AD90EA}" ShortID="182123769">
@@ -39,7 +28,101 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="random" ID="{246B2F39-2247-4757-9A07-6AD0D112B204}"/>
+				<Event Name="Music_MainMenu" ID="{8B6FBB4C-AA2C-4E11-9037-765205586C89}">
+					<ChildrenList>
+						<Action Name="" ID="{83CD7DA1-605C-41A8-9931-4794AFDB5DBA}" ShortID="672895291">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Home_Theme" ID="{59087FA0-F311-4894-B969-7BB958E3F3C2}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ClickValidate" ID="{5B604F85-C171-4564-99E3-6763DCBCA534}">
+					<ChildrenList>
+						<Action Name="" ID="{F49D172F-A843-4C5E-88C4-59E34ECA6D2B}" ShortID="253153163">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Click#1" ID="{BE2A32D0-390D-49CC-B770-874F8C340863}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ClickReturn" ID="{9BDB755F-24C5-4C27-88EA-66DA7DB0ACB9}">
+					<ChildrenList>
+						<Action Name="" ID="{2ECE47DE-D49C-4303-B6D8-9D79DC6B3023}" ShortID="30339674">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Click#3" ID="{147E1284-F9D6-4052-90C1-B504E4B58171}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PathDo" ID="{D6E21527-0645-4BE2-8846-9D2B1A63C705}">
+					<ChildrenList>
+						<Action Name="" ID="{29D33E14-4CFD-499E-B212-9610D3DAA0DC}" ShortID="1001006986">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PathDo" ID="{E38B7BD0-C36D-4A28-A889-75B8AD543178}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PathUndo" ID="{EA61A88D-06BC-4408-A6EE-12CF3E7806DA}">
+					<ChildrenList>
+						<Action Name="" ID="{3594568C-35E0-43FD-96BD-627E374F569A}" ShortID="665064271">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PathUndo" ID="{2B03FDAC-6CB2-4488-B91F-16AC65B4727A}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PathModify" ID="{DBF7EFA3-74AF-4D32-A66C-8A3ED4FEB875}">
+					<ChildrenList>
+						<Action Name="" ID="{716A71FC-C3CA-4920-9B76-D0308BDC8326}" ShortID="1068088470">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PathModify" ID="{0199D308-B6F7-4570-A80D-22C9DE2F41A7}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="WaterFallTest" ID="{90483175-E6C7-4991-BB59-6422BBD66F60}">
+					<ChildrenList>
+						<Action Name="" ID="{820331B8-4845-49A5-9FB4-BC7AFFD44924}" ShortID="102737211">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="WaterFall_Close" ID="{E425A43C-CC69-46DE-B3F7-07B0EC6E5B7A}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{989BFCA7-BE87-448E-BF0E-B96D2A215744}" ShortID="840903872">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="WaterFall_Far" ID="{6F04A360-62F3-4ED9-9D12-8474546812AE}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RandomObject" ID="{5CA7ABF1-B500-400F-AE78-0736F25A46F4}">
+					<ChildrenList>
+						<Action Name="" ID="{3B021DB2-5FE5-444B-A32F-0F1588172DA8}" ShortID="223787732">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Path_BaliseConstructed" ID="{731B8015-FA27-4346-8491-19F31F490AE3}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

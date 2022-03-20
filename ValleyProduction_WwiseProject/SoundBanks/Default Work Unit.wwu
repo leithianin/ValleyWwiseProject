@@ -5,10 +5,15 @@
 			<ChildrenList>
 				<SoundBank Name="Main_Soundbank" ID="{87D3FF92-AAC3-4B94-81DA-FD9E75BA7F1E}">
 					<ObjectInclusionList>
-						<ObjectRef Name="random" ID="{246B2F39-2247-4757-9A07-6AD0D112B204}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Ambient_Medium" ID="{72E4061A-D177-4AB3-B1C9-C097B035ACE6}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RandomObject" ID="{5CA7ABF1-B500-400F-AE78-0736F25A46F4}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PathUndo" ID="{EA61A88D-06BC-4408-A6EE-12CF3E7806DA}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ClickValidate" ID="{5B604F85-C171-4564-99E3-6763DCBCA534}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="WaterFallTest" ID="{90483175-E6C7-4991-BB59-6422BBD66F60}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambiant_Event" ID="{F70D274E-2D94-4B77-AA54-5EE8C119C819}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Wind_Event" ID="{8EF4E12C-5A4B-4F37-91EF-CCC4A65FE526}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PathDo" ID="{D6E21527-0645-4BE2-8846-9D2B1A63C705}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ClickReturn" ID="{9BDB755F-24C5-4C27-88EA-66DA7DB0ACB9}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PathModify" ID="{DBF7EFA3-74AF-4D32-A66C-8A3ED4FEB875}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_MainMenu" ID="{8B6FBB4C-AA2C-4E11-9037-765205586C89}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
