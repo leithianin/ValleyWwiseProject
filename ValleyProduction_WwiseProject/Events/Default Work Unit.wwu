@@ -14,7 +14,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Ambiant_Event" ID="{F70D274E-2D94-4B77-AA54-5EE8C119C819}"/>
+				<Event Name="Ambiant_Event" ID="{F70D274E-2D94-4B77-AA54-5EE8C119C819}">
+					<ChildrenList>
+						<Action Name="" ID="{4872A3C9-219A-43F8-8A40-ABA0ED123DD0}" ShortID="867984957">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Forest_Wind_Calm" ID="{58338EAF-3B42-48B5-A314-5A7292F587F0}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient_Medium" ID="{72E4061A-D177-4AB3-B1C9-C097B035ACE6}">
+					<ChildrenList>
+						<Action Name="" ID="{5BB4DF23-E5E9-4879-8C6E-A95806CC0EF9}" ShortID="351517251">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Forest_Wind_Medium" ID="{E552DFE7-D356-4664-A288-7154FDFAC071}" WorkUnitID="{0D2425FA-BEFD-4234-916D-E300E15FE402}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

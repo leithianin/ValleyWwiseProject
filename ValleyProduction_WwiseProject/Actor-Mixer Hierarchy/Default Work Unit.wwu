@@ -26,6 +26,52 @@
 						<ActiveSource Name="244942__spoonbender__wind-through-trees-3b" ID="{0A809CB4-01F0-4974-9DF4-2E1FBD011997}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Forest_Wind_Calm" ID="{58338EAF-3B42-48B5-A314-5A7292F587F0}" ShortID="1070914144">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{746431F6-F862-4F7F-85D7-12868312B723}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0342DAFD-7F8D-481C-8F54-8091A4C06744}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Forest_Wind_Calm" ID="{8F7061E8-E9A5-475F-9B50-D3C1DB72E278}">
+							<Language>SFX</Language>
+							<AudioFile>Forest_Wind_Calm.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="984360704"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Forest_Wind_Calm" ID="{8F7061E8-E9A5-475F-9B50-D3C1DB72E278}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Forest_Wind_Medium" ID="{E552DFE7-D356-4664-A288-7154FDFAC071}" ShortID="466688699">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{746431F6-F862-4F7F-85D7-12868312B723}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0342DAFD-7F8D-481C-8F54-8091A4C06744}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Forest_Wind_Medium" ID="{90DA4212-BC93-46B5-8029-3BBDFA552FD0}">
+							<Language>SFX</Language>
+							<AudioFile>Forest_Wind_Medium.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="430645645"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Forest_Wind_Medium" ID="{90DA4212-BC93-46B5-8029-3BBDFA552FD0}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
