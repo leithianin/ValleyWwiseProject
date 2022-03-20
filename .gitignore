@@ -2,6 +2,8 @@
 
 ValleyProduction_WwiseProject/.cache
 ValleyProduction_WwiseProject/*.prof
-ValleyProduction_WwiseProject/ValleyProduction_WwiseProject.*.validationcache
+ValleyProduction_WwiseProject/ValleyProduction_WwiseProject.c.pavie.validationcache
 ValleyProduction_WwiseProject/ValleyProduction_WwiseProject.*.wsettings
 ValleyProduction_WwiseProject/**/*.akd
+
+*.validationcache
