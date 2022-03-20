@@ -6,6 +6,7 @@
 				<AudioDevice Name="System" ID="{9DB5350E-D297-4C07-B131-F5CB60D5E564}" PluginName="System" CompanyID="0" PluginID="174" PluginType="7"/>
 				<AudioDevice Name="No_Output" ID="{105C1977-C378-423E-BBB8-0464A82366EC}" PluginName="No Output" CompanyID="0" PluginID="181" PluginType="7"/>
 				<AudioDevice Name="Default_Motion_Device" ID="{C844C123-33A3-4126-B986-C4092E69D644}" PluginName="Wwise Motion" CompanyID="0" PluginID="507" PluginType="7"/>
+				<AudioDevice Name="Stereo" ID="{D8B762D9-37B8-4893-BB6A-334F74AF3845}" PluginName="Auxiliary" CompanyID="0" PluginID="180" PluginType="7"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioDevices>
