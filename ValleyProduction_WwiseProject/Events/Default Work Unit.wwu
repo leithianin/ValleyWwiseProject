@@ -36,6 +36,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="random" ID="{246B2F39-2247-4757-9A07-6AD0D112B204}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

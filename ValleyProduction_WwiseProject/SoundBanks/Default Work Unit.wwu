@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="Main_Soundbank" ID="{87D3FF92-AAC3-4B94-81DA-FD9E75BA7F1E}">
 					<ObjectInclusionList>
+						<ObjectRef Name="random" ID="{246B2F39-2247-4757-9A07-6AD0D112B204}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambient_Medium" ID="{72E4061A-D177-4AB3-B1C9-C097B035ACE6}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Ambiant_Event" ID="{F70D274E-2D94-4B77-AA54-5EE8C119C819}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Wind_Event" ID="{8EF4E12C-5A4B-4F37-91EF-CCC4A65FE526}" WorkUnitID="{2248D09D-A1BF-4909-A52E-387103D2FBBF}" Origin="Manual" Filter="7"/>
